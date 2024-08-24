@@ -1218,3 +1218,259 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.24-15.23.16:712][580]LogSlate: Window 'Revision Control Login' being destroyed
 [2024.08.24-15.23.24:353][784]LogSlate: Window 'Revision Control Login' being destroyed
 [2024.08.24-15.24.01:967][954]LogDerivedDataCache: C:/Users/shuto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.164 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1022 files in 1573 folders with total size 15 MiB.
+[2024.08.24-15.25.26:796][257]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.24-15.25.30:095][328]LogSlate: Took 0.016391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.24-15.25.36:912][579]Cmd: DELETE
+[2024.08.24-15.25.36:914][579]Cmd: ACTOR DELETE
+[2024.08.24-15.25.36:989][579]LogEditorActor: Cannot delete actor Landscape /Temp/Untitled_1.Untitled_1:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703: Landscape can't be deleted because it still has 64 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2024.08.24-15.25.37:160][579]LogUObjectHash: Compacting FUObjectHashTables data took   7.84ms
+[2024.08.24-15.25.37:180][579]LogEditorActor: Deleted 0 Actors (0.198 secs)
+[2024.08.24-15.25.41:559][687]Cmd: DELETE
+[2024.08.24-15.25.41:559][687]Cmd: ACTOR DELETE
+[2024.08.24-15.25.41:559][687]LogEditorActor: Cannot delete actor Landscape /Temp/Untitled_1.Untitled_1:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703: Landscape can't be deleted because it still has 64 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2024.08.24-15.25.41:650][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:762][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:783][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:803][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:824][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:843][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:863][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:882][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:901][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:919][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:937][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:955][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:972][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.41:989][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:005][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:021][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:038][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:054][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:070][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:085][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:101][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:116][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:131][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:145][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:160][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:174][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:187][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:200][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:213][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:226][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:239][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:251][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:262][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:274][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:285][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:296][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:307][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:317][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:327][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:337][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:347][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:356][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:366][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:375][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:384][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:393][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:401][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:409][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:416][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:423][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:431][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:438][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:445][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:451][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:457][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:463][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:469][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:474][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:480][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:485][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:491][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:495][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:500][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:505][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.08.24-15.25.42:515][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.08.24-15.25.42:536][687]LogEditorActor: Deleted 64 Actors (0.977 secs)
+[2024.08.24-15.25.42:996][689]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.25.43:987][719]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.25.47:042][820]Cmd: DELETE
+[2024.08.24-15.25.47:042][820]Cmd: ACTOR DELETE
+[2024.08.24-15.25.47:046][820]LogEditorActor: Deleted Actor: Landscape
+[2024.08.24-15.25.47:064][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.08.24-15.25.47:068][820]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.08.24-15.25.47:192][824]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:372][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.25.48:373][849]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.08.24-15.26.00:395][398]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.08.24-15.26.00:407][398]LogContentBrowser: Creating deferred item: NewWorld
+[2024.08.24-15.26.00:507][400]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2024.08.24-15.26.16:420][911]LogContentBrowser: Attempting asset rename: NewWorld -> M_homework
+[2024.08.24-15.26.16:636][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.24-15.26.16:645][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.24-15.26.16:731][911]LogContentBrowser: End creating deferred item NewWorld
+[2024.08.24-15.26.18:310][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.08.24-15.26.24:908][959]LogSlate: Window 'Save Content' being destroyed
+[2024.08.24-15.26.26:382][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.08.24-15.26.29:589][  3]LogSlate: Window 'Save Content' being destroyed
+[2024.08.24-15.26.29:728][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-15.26.29:842][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_homework" FILE="../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.24-15.26.29:855][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.08.24-15.26.29:886][  3]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.021436 seconds
+[2024.08.24-15.26.29:931][  3]LogSavePackage: Moving output files for package: /Game/M_homework
+[2024.08.24-15.26.29:931][  3]LogSavePackage: Moving '../../../../УлейПчелки/UE5/homework/homeworkGB/Saved/M_homeworkE96ACFF74C748CCDB2F3159100111F63.tmp' to '../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap'
+[2024.08.24-15.26.30:146][  3]LogFileHelpers: Saving map 'M_homework' took 0.310
+[2024.08.24-15.26.30:150][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 421 ms
+[2024.08.24-15.26.30:153][  3]LogAssetEditorSubsystem: Opening Asset editor for World /Game/M_homework.M_homework
+[2024.08.24-15.26.30:159][  3]Cmd: MAP LOAD FILE="../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.08.24-15.26.30:160][  3]LightingResults: New page: Lighting Build
+[2024.08.24-15.26.30:164][  3]LoadErrors: New page: Loading map: M_homework.umap
+[2024.08.24-15.26.30:232][  3]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.08.24-15.26.30:271][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.24-15.26.30:310][  3]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.08.24-15.26.30:334][  3]MapCheck: New page: Map Check
+[2024.08.24-15.26.30:334][  3]LightingResults: New page: Lighting Build
+[2024.08.24-15.26.30:353][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.24-15.26.30:522][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.08.24-15.26.30:543][  3]LogWorld: UWorld::CleanupWorld for M_homework, bSessionEnded=true, bCleanupResources=true
+[2024.08.24-15.26.30:544][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.24-15.26.30:552][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.08.24-15.26.30:557][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.08.24-15.26.30:580][  3]LogAudio: Display: Audio Device (ID: 1) registered with world 'M_homework'.
+[2024.08.24-15.26.30:584][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.24-15.26.30:588][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.24-15.26.30:594][  3]LogAIModule: Creating AISystem for world M_homework
+[2024.08.24-15.26.30:765][  3]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.24-15.26.30:804][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.24-15.26.30:813][  3]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.24-15.26.30:814][  3]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,28ms to complete.
+[2024.08.24-15.26.30:828][  3]AssetCheck: New page: Asset Save: M_homework
+[2024.08.24-15.26.30:828][  3]LogContentValidation: Display: Validating /Script/Engine.World /Game/M_homework.M_homework
+[2024.08.24-15.26.32:406][ 43]LogEditorViewport: Clicking Background
+[2024.08.24-15.26.34:669][125]LogEditorViewport: Clicking Background
+[2024.08.24-15.26.35:943][180]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.08.24-15.26.36:236][194]LogEditorViewport: Clicking Background
+[2024.08.24-15.26.47:561][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.26.47:562][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.26.47:572][795]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_0
+[2024.08.24-15.26.47:732][795]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_0
+[2024.08.24-15.26.55:838][ 69]LogEditorViewport: Clicking Background
+[2024.08.24-15.26.57:785][170]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.08.24-15.26.57:785][170]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.08.24-15.27.00:762][258]Cmd: DELETE
+[2024.08.24-15.27.00:763][258]Cmd: ACTOR DELETE
+[2024.08.24-15.27.00:767][258]LogEditorActor: Deleted Actor: PointLight
+[2024.08.24-15.27.00:783][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.08.24-15.27.00:787][258]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.08.24-15.27.01:321][277]Cmd: TRANSACTION UNDO
+[2024.08.24-15.27.01:322][277]LogEditorTransaction: Undo Delete Elements
+[2024.08.24-15.27.03:764][343]Cmd: DELETE
+[2024.08.24-15.27.03:764][343]Cmd: ACTOR DELETE
+[2024.08.24-15.27.03:768][343]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.08.24-15.27.03:780][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.08.24-15.27.03:784][343]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.08.24-15.27.04:248][355]Cmd: DELETE
+[2024.08.24-15.27.04:248][355]Cmd: ACTOR DELETE
+[2024.08.24-15.27.04:249][355]LogEditorActor: Deleted Actor: PointLight
+[2024.08.24-15.27.04:256][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.08.24-15.27.04:257][355]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.08.24-15.27.04:858][378]LogEditorViewport: Clicking Background
+[2024.08.24-15.27.05:660][409]LogEditorViewport: Clicking Background
+[2024.08.24-15.27.06:375][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-15.27.06:455][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_homework" FILE="../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.24-15.27.06:488][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.08.24-15.27.06:492][432]LogSavePackage: Moving output files for package: /Game/M_homework
+[2024.08.24-15.27.06:493][432]LogSavePackage: Moving '../../../../УлейПчелки/UE5/homework/homeworkGB/Saved/M_homework2A9A1963414C3E85002401B83A22E93E.tmp' to '../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap'
+[2024.08.24-15.27.06:508][432]LogFileHelpers: Saving map 'M_homework' took 0.054
+[2024.08.24-15.27.06:536][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 581 ms)
+[2024.08.24-15.27.06:537][432]AssetCheck: New page: Asset Save: M_homework
+[2024.08.24-15.27.06:538][432]LogContentValidation: Display: Validating /Script/Engine.World /Game/M_homework.M_homework
+[2024.08.24-15.28.02:299][ 16]LogEditorViewport: Clicking Background
+[2024.08.24-15.28.10:702][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.28.10:704][485]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.28.10:704][485]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_1
+[2024.08.24-15.28.10:704][485]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_1
+[2024.08.24-15.28.19:715][802]LogEditorViewport: Clicking Background
+[2024.08.24-15.28.49:641][294]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.08.24-15.28.49:641][294]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2024.08.24-15.29.10:019][908]Cmd: DELETE
+[2024.08.24-15.29.10:019][908]Cmd: ACTOR DELETE
+[2024.08.24-15.29.10:023][908]LogEditorActor: Deleted Actor: RectLight
+[2024.08.24-15.29.10:038][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.08.24-15.29.10:042][908]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.08.24-15.29.15:539][180]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.08.24-15.29.15:539][180]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SpotLight
+[2024.08.24-15.30.25:713][285]LogEditorViewport: Clicking Background
+[2024.08.24-15.30.26:151][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-15.30.26:218][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_homework" FILE="../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.24-15.30.26:251][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.08.24-15.30.26:258][293]LogSavePackage: Moving output files for package: /Game/M_homework
+[2024.08.24-15.30.26:259][293]LogSavePackage: Moving '../../../../УлейПчелки/UE5/homework/homeworkGB/Saved/M_homework284F201845B06D6A0EF56A948251A97D.tmp' to '../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap'
+[2024.08.24-15.30.26:270][293]LogFileHelpers: Saving map 'M_homework' took 0.054
+[2024.08.24-15.30.26:276][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 706 ms)
+[2024.08.24-15.30.26:278][293]AssetCheck: New page: Asset Save: M_homework
+[2024.08.24-15.30.26:278][293]LogContentValidation: Display: Validating /Script/Engine.World /Game/M_homework.M_homework
