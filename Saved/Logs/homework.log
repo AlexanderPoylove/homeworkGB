@@ -1623,3 +1623,189 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.24-15.54.03:299][974]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
 [2024.08.24-15.54.06:851][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2024.08.24-15.54.08:537][ 23]LogSlate: Window 'Save Content' being destroyed
+[2024.08.24-15.54.35:575][244]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.24-15.54.35:575][244]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.54.35:576][244]MaterialEditorStats: Shader Count: 0
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: ================================================
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: Total job queries 1 091, among them cache hits 1 000 (91.66%)
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: Tracking 91 distinct input hashes that result in 62 distinct outputs (68.13%)
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: RAM used: 2,38 MiB of 307,20 MiB budget. Usage: 0.78%
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: Shaders Compiled: 91
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: Jobs assigned 91, completed 91 (100%)
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: Average time worker was idle: 5.69 s
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: Time job spent in pending queue: average 2.70 s, longest 6.75 s
+[2024.08.24-15.54.35:607][245]LogShaderCompilers: Display: Job execution time: average 0.89 s, max 3.23 s
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Job life time (pending + execution): average 3.59 s, max 8.28
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Shader code size: average 45,224 KiB, min 29,711 KiB, max 70,68 KiB
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.96 s
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Jobs were issued in 91 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Average processing rate: 7.61 jobs/sec
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Total thread time: 58,092 s
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Total thread preprocess time: 4,153 s
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Percentage time preprocessing: 7.15%
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Effective parallelization: 4.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 1.07 sec, max 1.07 sec, min 1.07 sec)
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.83 sec, max 1.80 sec, min 0.46 sec)
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.82 sec, max 1.80 sec, min 0.46 sec)
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 0.80 sec, max 1.76 sec, min 0.46 sec)
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 0.79 sec, max 1.59 sec, min 0.50 sec)
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.24% of total time (compiled    5 times, average 0.73 sec, max 1.52 sec, min 0.44 sec)
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.73% of total time (compiled    4 times, average 0.83 sec, max 1.80 sec, min 0.46 sec)
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 5.65% of total time (compiled    4 times, average 0.82 sec, max 1.80 sec, min 0.46 sec)
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 5.52% of total time (compiled    4 times, average 0.80 sec, max 1.76 sec, min 0.46 sec)
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.45% of total time (compiled    4 times, average 0.79 sec, max 1.59 sec, min 0.50 sec)
+[2024.08.24-15.54.35:608][245]LogShaderCompilers: Display: ================================================
+[2024.08.24-15.54.35:629][246]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.08.24-15.54.35:630][246]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.54.35:630][246]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.24-15.54.35:630][246]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.54.35:630][246]MaterialEditorStats: Shader Count: 4
+[2024.08.24-15.54.40:741][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.08.24-15.54.44:297][362]LogSlate: Window 'Save Content' being destroyed
+[2024.08.24-15.54.44:315][363]LogAutomationController: Ignoring very large delta of 3.58 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.08.24-15.54.45:040][379]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2024.08.24-15.54.45:163][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.08.24-15.54.45:354][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.08.24-15.54.45:504][379]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.54.45:507][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-15.54.45:658][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2024.08.24-15.54.45:662][379]LogSavePackage: Moving output files for package: /Engine/BasicShapes/BasicShapeMaterial
+[2024.08.24-15.54.45:663][379]LogSavePackage: Moving '../../../../УлейПчелки/UE5/homework/homeworkGB/Saved/BasicShapeMaterial9B0CBE8641D21C02C8408DBB471099BF.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2024.08.24-15.54.45:671][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 23.3 sec)
+[2024.08.24-15.54.45:672][379]AssetCheck: New page: Asset Save: BasicShapeMaterial
+[2024.08.24-15.54.45:672][379]LogContentValidation: Display: Validating /Script/Engine.Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2024.08.24-15.54.45:673][379]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.08.24-15.54.45:673][379]MaterialEditorStats: Base pass shader with Surface Lightmap: 225 instructions
+[2024.08.24-15.54.45:673][379]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.54.45:674][379]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.24-15.54.45:674][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.54.45:674][379]MaterialEditorStats: Shader Count: 89
+[2024.08.24-15.54.45:755][382]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.55.05:269][980]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.24-15.55.05:269][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.05:269][980]MaterialEditorStats: Shader Count: 0
+[2024.08.24-15.55.05:346][982]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.08.24-15.55.05:346][982]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.55.05:346][982]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.24-15.55.05:346][982]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.05:346][982]MaterialEditorStats: Shader Count: 4
+[2024.08.24-15.55.15:417][269]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.24-15.55.15:417][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.15:417][269]MaterialEditorStats: Shader Count: 0
+[2024.08.24-15.55.15:445][270]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.08.24-15.55.15:445][270]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.55.15:445][270]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.24-15.55.15:445][270]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.15:445][270]MaterialEditorStats: Shader Count: 2
+[2024.08.24-15.55.17:903][322]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.24-15.55.17:903][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.17:903][322]MaterialEditorStats: Shader Count: 0
+[2024.08.24-15.55.18:013][324]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.08.24-15.55.18:013][324]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.55.18:013][324]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.24-15.55.18:013][324]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.18:013][324]MaterialEditorStats: Shader Count: 4
+[2024.08.24-15.55.19:897][392]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.24-15.55.19:897][392]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.19:897][392]MaterialEditorStats: Shader Count: 0
+[2024.08.24-15.55.20:841][404]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.24-15.55.20:841][404]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.24-15.55.20:841][404]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.20:841][404]MaterialEditorStats: Shader Count: 3
+[2024.08.24-15.55.20:935][406]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.24-15.55.20:935][406]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.55.20:935][406]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.24-15.55.20:935][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.20:935][406]MaterialEditorStats: Shader Count: 4
+[2024.08.24-15.55.25:164][494]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.24-15.55.25:164][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.25:164][494]MaterialEditorStats: Shader Count: 0
+[2024.08.24-15.55.25:261][496]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.24-15.55.25:261][496]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.55.25:261][496]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.24-15.55.25:261][496]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.25:261][496]MaterialEditorStats: Shader Count: 4
+[2024.08.24-15.55.28:555][565]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.24-15.55.28:555][565]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.28:555][565]MaterialEditorStats: Shader Count: 0
+[2024.08.24-15.55.28:652][567]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.24-15.55.28:652][567]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.55.28:652][567]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.24-15.55.28:652][567]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.28:652][567]MaterialEditorStats: Shader Count: 4
+[2024.08.24-15.55.35:081][709]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2024.08.24-15.55.35:200][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.08.24-15.55.35:701][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.08.24-15.55.35:827][709]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.55.35:830][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-15.55.37:981][709]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.08.24-15.55.43:855][709]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 7.876406s (5.876406s overbudget)
+[2024.08.24-15.55.43:895][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2024.08.24-15.55.43:898][709]LogSavePackage: Moving output files for package: /Engine/BasicShapes/BasicShapeMaterial
+[2024.08.24-15.55.43:900][709]LogSavePackage: Moving '../../../../УлейПчелки/UE5/homework/homeworkGB/Saved/BasicShapeMaterial19AB86214EE6573D302C479BC2323A97.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2024.08.24-15.55.43:908][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.07 sec (total: 31.4 sec)
+[2024.08.24-15.55.43:909][709]AssetCheck: New page: Asset Save: BasicShapeMaterial
+[2024.08.24-15.55.43:909][709]LogContentValidation: Display: Validating /Script/Engine.Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2024.08.24-15.55.43:911][709]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.24-15.55.43:911][709]MaterialEditorStats: Base pass shader with Surface Lightmap: 227 instructions
+[2024.08.24-15.55.43:911][709]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.55.43:911][709]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.24-15.55.43:911][709]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.43:911][709]MaterialEditorStats: Shader Count: 89
+[2024.08.24-15.55.43:925][709]LogAutomationController: Ignoring very large delta of 8.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.08.24-15.55.44:017][711]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.55.48:215][793]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.24-15.55.48:215][793]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.48:215][793]MaterialEditorStats: Shader Count: 0
+[2024.08.24-15.55.48:311][795]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.24-15.55.48:311][795]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.55.48:311][795]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.24-15.55.48:311][795]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.48:311][795]MaterialEditorStats: Shader Count: 4
+[2024.08.24-15.55.53:459][945]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2024.08.24-15.55.53:589][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.08.24-15.55.53:771][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.08.24-15.55.53:921][945]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.55.53:924][945]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-15.55.54:113][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2024.08.24-15.55.54:116][945]LogSavePackage: Moving output files for package: /Engine/BasicShapes/BasicShapeMaterial
+[2024.08.24-15.55.54:117][945]LogSavePackage: Moving '../../../../УлейПчелки/UE5/homework/homeworkGB/Saved/BasicShapeMaterial624FDE86416492943A96A3B45A1B5093.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2024.08.24-15.55.54:131][945]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 31.6 sec)
+[2024.08.24-15.55.54:133][945]AssetCheck: New page: Asset Save: BasicShapeMaterial
+[2024.08.24-15.55.54:133][945]LogContentValidation: Display: Validating /Script/Engine.Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2024.08.24-15.55.54:134][945]MaterialEditorStats: Base pass shader: 196 instructions
+[2024.08.24-15.55.54:134][945]MaterialEditorStats: Base pass shader with Surface Lightmap: 227 instructions
+[2024.08.24-15.55.54:134][945]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.08.24-15.55.54:134][945]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.24-15.55.54:134][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.24-15.55.54:134][945]MaterialEditorStats: Shader Count: 89
+[2024.08.24-15.55.54:203][947]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.56.04:900][251]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.24-15.56.24:923][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.08.24-15.56.26:446][392]LogSlate: Window 'Save Content' being destroyed
+[2024.08.24-15.56.27:067][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.08.24-15.56.28:302][403]LogSlate: Window 'Save Content' being destroyed
+[2024.08.24-15.56.37:243][640]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Engine/BasicShapes/BasicShapeMaterial_Inst.BasicShapeMaterial_Inst
+[2024.08.24-15.56.37:254][640]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.24-15.56.37:255][640]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.24-15.56.37:617][640]LogViewport: Scene viewport resized to 622x640, mode Windowed.
+[2024.08.24-15.56.44:810][823]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.56.45:760][856]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.57.01:640][490]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.24-15.57.06:797][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.08.24-15.57.08:430][630]LogSlate: Window 'Save Content' being destroyed
+[2024.08.24-15.57.08:551][630]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.57.08:555][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-15.57.08:676][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial_Inst" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset" SILENT=true
+[2024.08.24-15.57.08:683][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.08.24-15.57.08:689][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.08.24-15.57.08:695][630]LogSavePackage: Moving output files for package: /Engine/BasicShapes/BasicShapeMaterial_Inst
+[2024.08.24-15.57.08:696][630]LogSavePackage: Moving '../../../../УлейПчелки/UE5/homework/homeworkGB/Saved/BasicShapeMaterial_InstBE10B352423806CE289B639176AC1020.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset'
+[2024.08.24-15.57.08:706][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 31.7 sec)
+[2024.08.24-15.57.08:709][630]AssetCheck: New page: Asset Save: BasicShapeMaterial_Inst
+[2024.08.24-15.57.08:709][630]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Engine/BasicShapes/BasicShapeMaterial_Inst.BasicShapeMaterial_Inst
+[2024.08.24-15.57.08:801][632]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset: 'D:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
