@@ -1501,3 +1501,78 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.24-15.37.33:895][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 852 ms)
 [2024.08.24-15.37.33:896][403]AssetCheck: New page: Asset Save: M_homework
 [2024.08.24-15.37.33:896][403]LogContentValidation: Display: Validating /Script/Engine.World /Game/M_homework.M_homework
+[2024.08.24-15.37.51:623][476]LogEditorViewport: Clicking Background
+[2024.08.24-15.38.04:826][ 61]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2024.08.24-15.38.04:826][ 61]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TextRenderActor
+[2024.08.24-15.38.04:843][ 61]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/M_homework.M_homework:PersistentLevel.TextRenderActor_0
+[2024.08.24-15.38.04:843][ 61]LogActorFactory: Actor Factory spawned Class /Script/Engine.TextRenderActor as actor: TextRenderActor /Game/M_homework.M_homework:PersistentLevel.TextRenderActor_0
+[2024.08.24-15.38.41:568][171]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.24-15.39.18:283][153]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.24-15.40.17:203][529]SourceControl: fatal: D:/UE_5.3/Engine/Content/EngineMeshes: 'D:/UE_5.3/Engine/Content/EngineMeshes' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.40.26:051][769]SourceControl: fatal: D:/UE_5.3/Engine/Content/EditorShapes/Textures: 'D:/UE_5.3/Engine/Content/EditorShapes/Textures' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.40.34:601][101]SourceControl: fatal: D:/UE_5.3/Engine/Content/BasicShapes: 'D:/UE_5.3/Engine/Content/BasicShapes' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.40.49:324][737]SourceControl: fatal: D:/UE_5.3/Engine/Content/EditorShapes/Textures: 'D:/UE_5.3/Engine/Content/EditorShapes/Textures' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.41.04:115][465]SourceControl: fatal: D:/UE_5.3/Engine/Content/StarterContent/Textures/T_ground_Moss_D.uasset: 'D:/UE_5.3/Engine/Content/StarterContent/Textures/T_ground_Moss_D.uasset' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.41.12:560][833]SourceControl: fatal: D:/UE_5.3/Engine/Content/TemplateResources: 'D:/UE_5.3/Engine/Content/TemplateResources' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.41.21:611][193]SourceControl: fatal: D:/UE_5.3/Engine/Content/EngineMeshes: 'D:/UE_5.3/Engine/Content/EngineMeshes' is outside repository at 'D:/УлейПчелки/UE5/homework/homeworkGB'
+[2024.08.24-15.41.24:020][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/EngineMeshes/SM_MatPreviewMesh_01.SM_MatPreviewMesh_01
+[2024.08.24-15.41.24:021][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/EngineMeshes/SM_MatPreviewMesh_01.SM_MatPreviewMesh_01
+[2024.08.24-15.41.24:022][250]LogActorFactory: Actor Factory spawned StaticMesh /Engine/EngineMeshes/SM_MatPreviewMesh_01.SM_MatPreviewMesh_01 as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_3
+[2024.08.24-15.41.29:580][523]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/EngineMeshes/SM_MatPreviewMesh_01.SM_MatPreviewMesh_01
+[2024.08.24-15.41.29:580][523]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/EngineMeshes/SM_MatPreviewMesh_01.SM_MatPreviewMesh_01
+[2024.08.24-15.41.29:581][523]LogActorFactory: Actor Factory spawned StaticMesh /Engine/EngineMeshes/SM_MatPreviewMesh_01.SM_MatPreviewMesh_01 as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_4
+[2024.08.24-15.41.31:703][581]Cmd: DELETE
+[2024.08.24-15.41.31:703][581]Cmd: ACTOR DELETE
+[2024.08.24-15.41.31:706][581]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.08.24-15.41.31:765][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.08.24-15.41.31:772][581]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2024.08.24-15.41.35:055][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.41.35:055][729]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.41.35:056][729]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_5
+[2024.08.24-15.41.35:057][729]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_5
+[2024.08.24-15.41.52:407][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.41.52:407][317]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.41.52:408][317]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_6
+[2024.08.24-15.41.52:409][317]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_6
+[2024.08.24-15.42.05:242][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.08.24-15.42.05:242][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2024.08.24-15.42.05:243][730]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_7
+[2024.08.24-15.42.05:246][730]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_7
+[2024.08.24-15.42.15:873][ 40]LogEditorViewport: Clicking Background
+[2024.08.24-15.42.43:808][798]Cmd: DELETE
+[2024.08.24-15.42.43:808][798]Cmd: ACTOR DELETE
+[2024.08.24-15.42.43:812][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.08.24-15.42.43:834][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.08.24-15.42.43:843][798]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.08.24-15.42.55:424][230]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2024.08.24-15.42.55:424][230]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2024.08.24-15.42.55:425][230]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_9
+[2024.08.24-15.42.55:426][230]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_9
+[2024.08.24-15.43.07:854][552]Cmd: DELETE
+[2024.08.24-15.43.07:854][552]Cmd: ACTOR DELETE
+[2024.08.24-15.43.07:858][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.08.24-15.43.07:878][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.08.24-15.43.07:887][552]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.08.24-15.43.11:204][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.43.11:204][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.43.11:205][704]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_10
+[2024.08.24-15.43.11:206][704]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_10
+[2024.08.24-15.43.12:292][731]Cmd: DELETE
+[2024.08.24-15.43.12:293][731]Cmd: ACTOR DELETE
+[2024.08.24-15.43.12:296][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.08.24-15.43.12:310][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.08.24-15.43.12:317][731]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2024.08.24-15.43.18:269][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.43.18:270][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.43.18:271][  2]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_11
+[2024.08.24-15.43.18:271][  2]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_11
+[2024.08.24-15.44.59:335][829]LogEditorViewport: Clicking Background
+[2024.08.24-15.45.00:157][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-15.45.00:235][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_homework" FILE="../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.24-15.45.00:272][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.08.24-15.45.00:285][848]LogSavePackage: Moving output files for package: /Game/M_homework
+[2024.08.24-15.45.00:285][848]LogSavePackage: Moving '../../../../УлейПчелки/UE5/homework/homeworkGB/Saved/M_homeworkB4F1FBD04FFDF6AC26D36CAA5A1E89F6.tmp' to '../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap'
+[2024.08.24-15.45.00:297][848]LogFileHelpers: Saving map 'M_homework' took 0.062
+[2024.08.24-15.45.00:330][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 1.02 sec)
+[2024.08.24-15.45.00:332][848]AssetCheck: New page: Asset Save: M_homework
+[2024.08.24-15.45.00:332][848]LogContentValidation: Display: Validating /Script/Engine.World /Game/M_homework.M_homework
