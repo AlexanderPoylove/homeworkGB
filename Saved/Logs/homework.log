@@ -1474,3 +1474,30 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.24-15.30.26:276][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 706 ms)
 [2024.08.24-15.30.26:278][293]AssetCheck: New page: Asset Save: M_homework
 [2024.08.24-15.30.26:278][293]LogContentValidation: Display: Validating /Script/Engine.World /Game/M_homework.M_homework
+[2024.08.24-15.33.01:628][477]LogEditorViewport: Clicking Background
+[2024.08.24-15.33.15:766][193]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2024.08.24-15.33.15:766][193]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2024.08.24-15.33.15:773][193]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/M_homework.M_homework:PersistentLevel.PostProcessVolume_0
+[2024.08.24-15.33.15:815][193]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/M_homework.M_homework:PersistentLevel.PostProcessVolume_0
+[2024.08.24-15.34.08:797][249]LogEditorViewport: Clicking Background
+[2024.08.24-15.35.45:679][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.35.45:679][315]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.08.24-15.35.45:680][315]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_2
+[2024.08.24-15.35.45:680][315]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/M_homework.M_homework:PersistentLevel.StaticMeshActor_2
+[2024.08.24-15.35.59:460][703]Cmd: DELETE
+[2024.08.24-15.35.59:460][703]Cmd: ACTOR DELETE
+[2024.08.24-15.35.59:467][703]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.08.24-15.35.59:522][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.08.24-15.35.59:528][703]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2024.08.24-15.36.09:825][165]LogEditorViewport: Clicking Background
+[2024.08.24-15.37.32:390][366]LogEditorViewport: Clicking Background
+[2024.08.24-15.37.33:594][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.08.24-15.37.33:748][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.24-15.37.33:825][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_homework" FILE="../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.24-15.37.33:863][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.08.24-15.37.33:875][403]LogSavePackage: Moving output files for package: /Game/M_homework
+[2024.08.24-15.37.33:876][403]LogSavePackage: Moving '../../../../УлейПчелки/UE5/homework/homeworkGB/Saved/M_homework476377694E1B8E325D1FC69BE11E3796.tmp' to '../../../../УлейПчелки/UE5/homework/homeworkGB/Content/M_homework.umap'
+[2024.08.24-15.37.33:888][403]LogFileHelpers: Saving map 'M_homework' took 0.064
+[2024.08.24-15.37.33:895][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 852 ms)
+[2024.08.24-15.37.33:896][403]AssetCheck: New page: Asset Save: M_homework
+[2024.08.24-15.37.33:896][403]LogContentValidation: Display: Validating /Script/Engine.World /Game/M_homework.M_homework
